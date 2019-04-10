@@ -1,0 +1,37 @@
+.projeto{
+    margin-top: 3%;
+    margin-left: 35%;
+    background-color: white;
+    border: 2px white;
+    max-width: 350px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 15px black;
+    font-family: monospace;
+}
+body{
+    background-image: url("space.jpg");
+    background-size: cover;
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+/*/.nome{
+    font-size: 20px;
+}/*/
+ 
+.botao{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-family: fantasy;
+
+}
+.p1{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+h1{
+	margin-left: 560px;
+	font-family: monospace;
+    font-size: 30px;
+	color:white;
+}
